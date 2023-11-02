@@ -1,0 +1,17 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "reactSnippets.settings.prettierEnabled": true,
+  "prettier.bracketSameLine": true,
+  "prettier.configPath": ".prettierrc.js",
+  "prettier.insertPragma": true,
+  "prettier.jsxSingleQuote": true,
+  "prettier.prettierPath": "./node_modules/prettier",
+  "prettier.requireConfig": true,
+  "prettier.singleAttributePerLine": true,
+  "prettier.vueIndentScriptAndStyle": true,
+  "prettier.withNodeModules": true,
+  "prettier.singleQuote": true,
+  "prettier.endOfLine": "auto",
+  "files.autoSave": "onFocusChange",
+  "editor.formatOnSave": true
+}
