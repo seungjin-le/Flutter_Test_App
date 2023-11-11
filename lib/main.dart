@@ -1,7 +1,6 @@
-import 'dart:io';
-
-import 'package:flutter/material.dart';
 import 'package:flutter_test_app/screens/home_screen.dart';
+import 'package:flutter/material.dart';
+import 'dart:io';
 
 class MyHttpOverrides extends HttpOverrides {
   @override
